@@ -1,6 +1,8 @@
 # OrderAnywhere Frontend Project
 This is OrderAnywhere's frontend that uses the backend project to contract with AWS resources & Mongo DB database.
 
+#Reactjs 16.2
+
 ## Framework and tools:
 - [ReactJs](https://reactjs.org/) A JavaScript library for building user interfaces
 - [Redux](https://redux.js.org/) Redux is a predictable state container for JavaScript apps
